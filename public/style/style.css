@@ -67,9 +67,16 @@ body {
   top: 315px;
   bottom: 20px;
   border-radius: 30px;
+  display: flex;
+  padding-bottom: 15px;
+  overflow-y: hidden;
+}
+
+.stores-list {
+  flex-grow: 1;
+  overflow-y: scroll;
   padding-left: 20px;
   padding-right: 20px;
-  overflow-y: scroll;
 }
 
 .store-container {

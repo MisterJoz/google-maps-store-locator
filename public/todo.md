@@ -9,7 +9,8 @@
 - [x] Add invididual store container
 
 * [x] Style indivual store item in the store list
-* [] Show all the stores in the stores list based on real world data
-* [] Show the marker based on real world store data
-* [] MAYBE: show the info window when you click on the individual store
+* [x] Show all the stores in the stores list based on real world data
+* [x] Show the marker based on real world store data
+* [x] Show basic info window
+* [] style info window
 * [] MAYBE: Add a beautiful transition on the hover of the individual store
