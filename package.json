@@ -7,15 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CleverProgrammers/google-maps-challege.git"
+    "type": "git"
   },
   "author": "Josh Garza",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CleverProgrammers/google-maps-challege/issues"
-  },
-  "homepage": "https://github.com/CleverProgrammers/google-maps-challege#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
